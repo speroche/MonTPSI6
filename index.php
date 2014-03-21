@@ -26,7 +26,7 @@ and open the template in the editor.
 
 
 //$rep->supprimerRepertoire();
-        
+       echo" j' ai fait des modification";
         
         ?>
 
