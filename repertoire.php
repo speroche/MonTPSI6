@@ -35,7 +35,7 @@ class repertoire {
                     
                 }
                 $compteur++;
-            }
+            }echo 'et comme je glr';
             }
    }
 ?>
